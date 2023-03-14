@@ -5,4 +5,7 @@ de Arquivo
 2
 enviando
 a funcionalidade x
+<<<<<<< HEAD
 enviando a funcionalidade b
+=======
+>>>>>>> origin/adicionar_html
